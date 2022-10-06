@@ -1,0 +1,15 @@
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.csproj.AssemblyReference.cache
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.AssemblyInfoInputs.cache
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.AssemblyInfo.cs
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.csproj.CoreCompileInputs.cache
+/Users/Alice/Projects/tnaim/tnaim/bin/Debug/net6.0/tnaim
+/Users/Alice/Projects/tnaim/tnaim/bin/Debug/net6.0/tnaim.deps.json
+/Users/Alice/Projects/tnaim/tnaim/bin/Debug/net6.0/tnaim.runtimeconfig.json
+/Users/Alice/Projects/tnaim/tnaim/bin/Debug/net6.0/tnaim.dll
+/Users/Alice/Projects/tnaim/tnaim/bin/Debug/net6.0/tnaim.pdb
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.dll
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/refint/tnaim.dll
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.pdb
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/tnaim.genruntimeconfig.cache
+/Users/Alice/Projects/tnaim/tnaim/obj/Debug/net6.0/ref/tnaim.dll
