@@ -7,7 +7,7 @@ namespace MyApp
         static void Main(string[] args)
         {
         // answer 3
-        /*
+        
         int num;
         Console.WriteLine("Enter a numner ");
         num = int.Parse(Console.ReadLine());
@@ -16,7 +16,7 @@ namespace MyApp
             Console.WriteLine("The number you enter is one digt");
         else
             Console.WriteLine("The number you enter isn't one digt");
-        */
+        
         // answer 4
         char tav ,a ,z ;
         Console.WriteLine("Enter a charecter ");
