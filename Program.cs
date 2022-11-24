@@ -31,8 +31,10 @@ namespace MyApp
         else
             Console.WriteLine("Your charecter isn't exsit in the alphabet");
         
-        //answer1
-
+            //answer1
+            //right = 0
+            //middle = 1
+            //left = 3
             //answer2
             /*int num, maxNum = 0, a, b;
             Console.WriteLine("Enter a number two digit number ");
